@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/christopherstephan/Documents/IE/Term%203/MLOPS/Forums/MLFLOW/mlfow-iris-tracking/mlruns/0/e604584e469f4cd0a75db199b3090031/artifacts
+end_time: 1739122724140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e604584e469f4cd0a75db199b3090031
+run_name: big-chimp-434
+run_uuid: e604584e469f4cd0a75db199b3090031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739122720632
+status: 3
+tags: []
+user_id: christopherstephan
